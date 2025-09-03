@@ -13,7 +13,7 @@ Bu proje, bir ön uç geliştiricisi olan Yiğit Açar için hazırlanmış basi
 # Özellikler
 `HTML5 ve CSS3`: En son web standartlarına uygun olarak kodlanmıştır.
 
-`Sosyal Medya Bağlantıları`: Kullanıcının Facebook, X, Instagram ve GitHub gibi sosyal medya hesaplarına hızlıca ulaşmasını sağlar.
+`Sosyal Medya Bağlantıları`: Kullanıcının Linkedin, X, Instagram ve GitHub gibi sosyal medya hesaplarına hızlıca ulaşmasını sağlar.
 
 `Font Awesome`: Sosyal medya ikonları için Font Awesome kütüphanesinden yararlanılmıştır.
 
